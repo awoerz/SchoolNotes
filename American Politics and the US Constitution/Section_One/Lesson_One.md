@@ -7,7 +7,7 @@
 
 ### What I Learned
 #### Three major players in the Enligthenment
-1. John Locke (Two Tretises of Governemtn - 1689)
+1. John Locke (Two Tretises of Government - 1689)
 	- Natural Rights: Liberty and Property
 2. Montesquieu (The spirit of the Laws - 1748)
     - Separation of powers; legislative, executive and judicial.
