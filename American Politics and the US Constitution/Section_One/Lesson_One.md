@@ -17,13 +17,16 @@
 
 ## Key Terms
 ### Natural Rights
-    - The rights to life, liberty and property; believed to be given by God; no government may take these rights away
+- The rights to life, liberty and property; believed to be given by God; no government may take these rights away
+
 ### State of Nature
-    - The idea of living under no government and having no rules for society
+- The idea of living under no government and having no rules for society
+
 ### Due Process
-    - The requirement that the government, when dealing with people, has a fair procedure that applies equally to all
+- The requirement that the government, when dealing with people, has a fair procedure that applies equally to all
+
 ### Chamber
-    - One of the houses of a legislature (in the U.S., Congress has two chambers, the House of Representatives and the Senate)
+- One of the houses of a legislature (in the U.S., Congress has two chambers, the House of Representatives and the Senate)
 
 ## Personal Follow Up
 ### Did I complete the learning objectives for this section?

@@ -45,13 +45,16 @@ Social contract can be flawed in that everyone must be in agreement and posess t
 
 ### Key Terms
 #### Social Contract
-    - A basic agreement between people and their government in which citizens consent to be governed, as long as the governemnt protects their natural rights; the social contract provides a definition of human nature, specifies the natural rights to be protected, and describes the share interests of the citizens
+- A basic agreement between people and their government in which citizens consent to be governed, as long as the governemnt protects their natural rights; the social contract provides a definition of human nature, specifies the natural rights to be protected, and describes the share interests of the citizens
+
 #### Social Contract Theory
-    - The idea that society is not natural, but created by people
+- The idea that society is not natural, but created by people
+
 #### Direct Democracy
-    - A form of democracy where people participate personally in making government decisions instead of choosing represnetatives to do this for them
+- A form of democracy where people participate personally in making government decisions instead of choosing represnetatives to do this for them
+
 #### Enlightenment
-    - A period of Western European history following the Middle Ages; the source of people's ideas about natural rights
+- A period of Western European history following the Middle Ages; the source of people's ideas about natural rights
 
 ## <a id="son-nr">2.2 The State of Nature and Natural Rights</a>
 ### What I Learned
@@ -84,7 +87,7 @@ Locke's view on the state of nature:
 
 ### Key Terms
 #### State of Nature
-    - A theory on how people might have lived before societies came into existence. 
+- A theory on how people might have lived before societies came into existence. 
 
 ## <a id="sc-cpr">2.3 Social Contract and Consensual Political Rule</a>
 
