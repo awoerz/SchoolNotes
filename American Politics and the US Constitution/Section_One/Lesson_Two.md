@@ -134,10 +134,75 @@ It does end by stating that social contract is ongoing in our political process 
     - [x] Describes the share interests of the citizens
     - [ ] Is a manifestation of the will of God
 
+2. Why is the state of nature important for creating a social contract? **Choose 2 answers**.
+    - [x] The state of nature defines what it means to be human.
+    - [ ] The state of nature demonstrates what an ideal social contract should look like.
+    - [x] The state of nature defines nautral rights
+    - [ ] The state of nature is fictional and offers nothing meaningful for creating a social contract.
+
+3. Why is it important to know what the quality of life is like in the state of nature? **Choose 2 answers**.
+    - [x] It explains the incentive for working cooperatively with others.
+    - [x] It helps to frame the type of social contract that is needed to make individual lives better.
+    - [ ] It provides a utopian goal for society to try to obtain.
+    - [ ] It provides the basis for a measure of human progress.
+
+4. What is the purpose of a social contract?
+    - [x] To acknowledge and protect natural rights
+    - [ ] To create natural rights
+    - [ ] To realize the will of God
+
+5. What is an important weakness of a social contract?
+    - [ ] Social contracts are fixed.
+    - [x] Social contracts require consensus.
+    - [ ] Social contracts do not aspire to create a perfect moral order.
+    - [ ] All social contracts eventually fail.
+
+6. Which statements are true about natural rights? **Choose 2 answers**.
+    - [x] They let you do what you need to survive and be secure.
+    - [x] They provide equality among all people.
+    - [ ] They require the creation of democratic government.
+    - [ ] They are given by the government and not God.
+
+7. Which statements are true concerning the state of nature? **Choose 2 answers**.
+    - [ ] Describes the relationship between human beings and animals.
+    - [x] Permits a philosophical definition of human nature.
+    - [x] Is a thought experiment upon which definitions of proper society and government are built
+    - [ ] Suggests that human beings are naturally social
+
+8. Which conditions are required for a social contract to work? **Choose 2 answers**.
+    - [x] Consensus among those whom the social contract applies to
+    - [ ] A commitment to toleration
+    - [x] Uniformity of ability and purpose among those who agree to the social contract
+    - [ ] The desire for a utopian society among those who want the social contract
+
+9. Which statement describes the theory of the social contract?
+    - [x] Society is not natural but created by the people.
+    - [ ] People must accept society as it is since it was naturally created.
+    - [ ] The people do not control society, but society controls the people.
+    - [ ] Society was created by God.
+
+10. What are social contracts based on?
+    - [ ] Nature and God
+    - [ ] Direct and representative democracies
+    - [ ] Ordinary rights and government rights
+    - [x] Human nature and natural rights
 
 ## Personal Follow Up
+### Can I answer the introductory questions? 
+1. Why do people have governments? 
+- Governments are the body that carries out social contracts which are required to protect natural rights.
+2. What roles and responsibilites should government fill?
+- Government should help to fill the need of updating and enforcing the social contracts of society
+3. How much power should the government have over its citizens?
+- Only as much is required to carry out the duties as outlined in question 2
+4. Who decides what is right and wrong? 
+- According to this material, that would be society, but in reality, it needs to ba less flexible and higher power such as God.
+5. Better yet, what gives someone the right to rule over someone else?
+- People give people the right to rule through social contracts. 
+
 ### Did I complete the learning objectives for this section?
 1. Describe the development and influence of the social contract theory.
+- Social contract theory believes that societys are not natural but created. Instead, natural rights and the state of nature are natural and provide the basis by which to create a social contract. A socical contract then allows for society to cooperate and create government that updates and enforces the social contract by way of democratic prosses and consensus. 
 
 ### Do I have any further questions?
 1. Where can I get proof that society is created by people and not God as the reading material purports? This sounds like a philisophical qustion that requires more thought expiriments and explanation.
