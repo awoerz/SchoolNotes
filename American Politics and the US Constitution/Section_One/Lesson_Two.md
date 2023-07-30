@@ -5,6 +5,7 @@
 [2.1 The Social Contract](#social-contract)<br>
 [2.2 The State of Nature and Natural Rights](#son-nr)<br>
 [2.3 Social Contract and Consensual Political Rule](#sc-cpr)<br>
+[2.4 Quiz and Summary](#QS)<br>
 
 ## <a id="intro">2 Introduction</a>
 1. Why do people have governments? 
@@ -90,8 +91,54 @@ Locke's view on the state of nature:
 - A theory on how people might have lived before societies came into existence. 
 
 ## <a id="sc-cpr">2.3 Social Contract and Consensual Political Rule</a>
+### What I Learned
+Social contract break down when not everyone agrees because if we agree they are created by people, they only work when their is a consensus. The material states that when natural rights of some are denied it results in enequality. 
+#### Material's logic
+different -> inequality -> social and political conflict -> The Civil War
+
+I can follow this logic to some degree but this is pretty intense if I'm being honest. I'm not sure I can jump through all the hoops the same way. I feel like I'm being set up to disagree with the John Locke and the founding fathers at some point or that a gotcha is going to come out of nowhere and tell me America sucks.
+
+The material follows up with other major political movements resulting from a lack of consensus and resulting in a change of social contract: 
+
+- the labor movement
+- women's suffrage
+- the civil rights movement
+- the women's liberation movement
+
+The material now goes into the political spectrum and calls out the TEA ("Taxed Enough Already") party as being a conservative party that leans mostly into the Republican Party and elected Donald Trump. I kind of hate this simplified view and this is not 100% true. So this is the *"gotcha"* I saw coming. 
+
+It then goes on to describe other groups on the left-wing side of things but does not negatively associate any of them with some of the less than admirable things they've done like they did with trying to link the TEA party to Donald Trump. Those groups were LGBTA+, Occupy Wall Street, and BLM. We all know BLM along with Antifa was responsible for large swaths of violence and destrution during the riots of 2020 and 2021. 
+
+Holy freaking crap! They are talking about Kim Davis not issuing a marriage license to a gay couple in KY even though that case is very nuanced, not to mention KY had it's own laws or in the context of this material, it's own social contract. The material is attempting to show examples of "softening / rejection" of the American social contract by groups on the right and left, but it is using vague examples that I don't think prove the point they are trying to make. Where did they get this writer, a lefty junior college? 
+
+It does end by stating that social contract is ongoing in our political process and I tend to agree with this as long as we continue to agree that society is created by people for people and not a natural outcome of life. It seems this first question posed in Lesson One has now been assumed to be that society is created by people, for people.
+
+### Key Terms
+#### Political Spectrum
+- A way to classify political ideologies; the American political spectrum consists primarily of liberalism(left) and conservatism(right), with most Americans identifying themselves as conservative, liberal, or moderate(center); in general people on the left prefer more governmental involvement, while those on the right prefer less
+
+^ I love how it points out that the left prefers more governmental involvement but I can't wait for this material to try and paint the right as pro-facist. 
+
+## <a id="QS">Quiz and Summary</a>
+### Summary and Takeaways
+- Society is not natural or God-given. It is intentionally designed to further individuals' shared interests. <- BOOM, the material finally stated outright that it is leaning towards this view although it was never "proven".
+- Society is defined by a social contract which is based on an understanding of what it means to be human (i.e., human nature) and of what natural rights humans posses.
+- The prupose of social contract is to enhance the potentional of human nature by protecting natural rights. 
+- While any form of government can be used, the optimal form of government is representative democracy (i.e., republic.)
+- Social contracts require continual renegotiation to remain relevant to present-day circumstances. This renegotiation, which can cause conflict, is managed through the democratic process. Failure to renegotiate the terms of a social contract can lead to the disintegration of society. <- This last point follows a train of logic that I find hard to wrap my head around and again, it was not proven as much as it was stated prior in the section. This still feels like a setup.
+
+### Quiz
+1. Which three statements describe characteristics of a social contract? **Choose 3 ansers**.
+- [x] Provides a definition of human nature
+- [x] Specifies the natural rights that are to be protected
+- [x] Describes the share interests of the citizens
+- [ ] Is a manifestation of the will of God
+
 
 ## Personal Follow Up
 ### Did I complete the learning objectives for this section?
+1. Describe the development and influence of the social contract theory.
 
 ### Do I have any further questions?
+1. Where can I get proof that society is created by people and not God as the reading material purports? This sounds like a philisophical qustion that requires more thought expiriments and explanation.
+2. What is the material setting me up to believe with the notion that society must always be "in-flux" with it's values? It feels like at some point they are going to leverage this point (again, not a proven point) to make me feel like the Constitution is always up for debate and should be changed. I understand ammendments are a thing, but it is important to note that one side of the aisle very much believes the constitution to be a "living breathing document". They believe they can change it on a whim and that society dictates at all times what rights are actually natural rights and which are rights that are "allowed" by government. Very, very, very interested to find out if my hunch is true. 
