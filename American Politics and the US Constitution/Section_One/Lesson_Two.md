@@ -5,7 +5,7 @@
 [2.1 The Social Contract](#social-contract)<br>
 [2.2 The State of Nature and Natural Rights](#son-nr)<br>
 [2.3 Social Contract and Consensual Political Rule](#sc-cpr)<br>
-[2.4 Quiz and Summary](#QS)<br>
+[2.4 Quiz and Summary](#q-s)<br>
 
 ## <a id="intro">2 Introduction</a>
 1. Why do people have governments? 
@@ -119,7 +119,7 @@ It does end by stating that social contract is ongoing in our political process 
 
 ^ I love how it points out that the left prefers more governmental involvement but I can't wait for this material to try and paint the right as pro-facist. 
 
-## <a id="QS">Quiz and Summary</a>
+## <a id="q-s">Quiz and Summary</a>
 ### Summary and Takeaways
 - Society is not natural or God-given. It is intentionally designed to further individuals' shared interests. <- BOOM, the material finally stated outright that it is leaning towards this view although it was never "proven".
 - Society is defined by a social contract which is based on an understanding of what it means to be human (i.e., human nature) and of what natural rights humans posses.
