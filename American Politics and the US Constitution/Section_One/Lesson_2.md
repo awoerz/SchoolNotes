@@ -6,6 +6,7 @@
 [2.2 The State of Nature and Natural Rights](#son-nr)<br>
 [2.3 Social Contract and Consensual Political Rule](#sc-cpr)<br>
 [2.4 Quiz and Summary](#q-s)<br>
+[Personal Follow Up](#p-f)<br>
 
 ## <a id="intro">2 Introduction</a>
 1. Why do people have governments? 
@@ -187,7 +188,7 @@ It does end by stating that social contract is ongoing in our political process 
     - [ ] Ordinary rights and government rights
     - [x] Human nature and natural rights
 
-## Personal Follow Up
+## <a id="p-f">Personal Follow Up</a>
 ### Can I answer the introductory questions? 
 1. Why do people have governments? 
 - Governments are the body that carries out social contracts which are required to protect natural rights.
