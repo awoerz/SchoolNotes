@@ -129,10 +129,10 @@ It does end by stating that social contract is ongoing in our political process 
 
 ### Quiz
 1. Which three statements describe characteristics of a social contract? **Choose 3 ansers**.
-- [x] Provides a definition of human nature
-- [x] Specifies the natural rights that are to be protected
-- [x] Describes the share interests of the citizens
-- [ ] Is a manifestation of the will of God
+    - [x] Provides a definition of human nature
+    - [x] Specifies the natural rights that are to be protected
+    - [x] Describes the share interests of the citizens
+    - [ ] Is a manifestation of the will of God
 
 
 ## Personal Follow Up
