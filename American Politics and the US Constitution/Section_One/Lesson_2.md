@@ -16,7 +16,7 @@
 5. Better yet, what gives someone the right to rule over someone else?
 
 
-## Learning Objectives
+### Learning Objectives
 1. Describe the development and influence of the social contract theory.
 
 ## <a id="social-contract">2.1 The Social Contract</a>
