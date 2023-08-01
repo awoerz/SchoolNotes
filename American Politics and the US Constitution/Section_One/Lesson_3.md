@@ -177,7 +177,8 @@ What is this consistent with?
 ## <a id="p-f">Personal Follow Up</a>
 
 ### Did I complete the learning objectives for this section?
-
+1. Describe the influence of Enlightenment ideas on the founding documents
+Well according to the material, the Declaration and Bill of Rights were based on Locke's ideas of natural rights and the Constitution was based on Montesquieu's ideas of checks and balances, and somehow these are mutually exclusive and competing ideas. At least that's how the material paints it. I completely disagree and I feel like I wasted a lot of time on this section.
 
 ### Do I have any further questions or thoughts?
 Yeah, can I speak to the absolute butthole who wrote this section? I mean they are trying to convince me by the end of it that liberty is a "procedural right" that the government can take away and it may be subtle but's completely true of what they did. I'm super peeved right now.

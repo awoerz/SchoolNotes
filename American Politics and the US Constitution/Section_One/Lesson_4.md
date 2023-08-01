@@ -6,6 +6,7 @@
 [4.2 Government Under The Articles of Confederation](#gotac)<br>
 [4.3 Creating a New Government 1](#cng1)<br>
 [4.4 Creating a New Government 2](#cng2)<br>
+[4.5 Quiz and Summary](#q-s)<br>
 [Personal Follow Up](#p-f)<br>
 
 ## <a id="intro">4 Introduction</a>
@@ -77,10 +78,12 @@ Regardless of the number of delegates sent to the congress, each state only got 
 - [ ] States were given representation based on population.
 
 ### Key Terms
+
 #### Bicameral Legislature
 - a legislative branch that consists of two separate chambers or two separately elected groups of officials, such as senators and representatives, like the Virginia Plan; bi, meaning "two," and camera, meaning "chamber," are Latin
 
 ## <a id="#cng2">4.4 Creating a New Government 2</a>
+
 ### What I Learned
 The material lists the pwers under the Articles which I'll list here but the information is in the material and I'm not copying and pasting. 
 - The power to borrow and coing money
@@ -95,12 +98,94 @@ Issues with this form of government
 - Only the states could tax citizens meaning the central government had to always borrow money from the states to cover debts. 
 - No central military, meaning states had to supply soldiers.
 
+### Learning Check Questions
 
-### Key Terms
+1. Why were the powers of the national government severely limited under the Articles of Confederation?
+- [ ] To create a government that could only have the ability to function for a limited amount of time
+- [ ] To prevent the states from feeling alienated from the national government
+- [ ] To give the national government a layer of protection against the desires of the citizens
+- [x] To prevent the national government from becoming too powerful or abusing the rights of individual citizens and states
+
+2. Why was limiting the powers of the national government under the Articles of Confederation a major concern?
+- [ ] It guaranteed that the Articles of Confederation would only be a temporary document.
+- [ ] It did not create an institution to print money.
+- [x] It maintained the sovereignty of state governments.
+
+
+3. Which power did the national government have under the Articles of Confederation?
+- [x] The power to manage relationships with Native peoples
+- [ ] The power to enforce laws
+- [ ] The power to have national courts practice judicial review
+- [ ] The power to create an army and a navy
+
+
+4. Although the national government had the power to declare war under the Articles of Confederation, how was this specific power limited?
+- [ ] The national government needed approval from the states in order to declare war.
+- [ ] The national government could not appoint military officials.
+- [ ] There was no president to serve as commander in chief of the national military.
+- [x] There was no national military to gather soldiers from.
+
+5. Why was the national government given power to regulate trade with the Native peoples under the Articles of Confederation?
+- [ ] The national government did not have the power to regulate trade with Native peoples, only state governments had this power.
+- [x] Because Native peoples were not considered citizens of the United States and were treated as foreign nations.
+- [ ] Because Native peoples used the national currency, they had to negotiate all trade agreements directly with the national government.
+- [ ] Because Native peoples territories were considered states so any boundary disputes had to be settled by the national government.
+
+## <a id="q-s">Quiz and Summary</a>
+
+### Summary 
+
+And the summary is that the government's limited powers sucked so yay bigger government and the Articles of Confederation suck. 
+
+Reasons why it sucked according to the material (and a healty dose of monday morning quarterbacking):
+- A unicameral congress in which states, regardless of the number of delegates and size of their population, only received one vote
+- No executive or judicial branches 
+- A national government that was left with very limited power 
+
+Key points according to the material: 
+- The most important goal of the Articles of Confederation was to limit the powers of the national government, which protected states' sovereignty.
+- The structure of the national government under the Articles of Confederation did not reflect the United States' current structure of government, demonstrating the need for multiple branches of government.
+- The Articles of Confederation limited the powers of the national government too much, ultimately making it too weak to function.
+
+### Quiz
+
+
+1. Which system of government allows states to retain most of their power and authority while delegating few defined powers to the national government?
+- [ ] A federal system
+- [ ] A monarchy
+- [ ] An oligarchy
+- [x] A confederation
+
+2. Why did the Articles of Confederation fail? Choose 2 answers.
+- [ ] The Articles created a republican form of government.
+- [ ] The Articles created a bicameral legislature
+- [x] The Articles gave the states too much authority.
+- [x] The Articles limited the powers of the national government too much, making it weak and ineffective.
+
+3. How did creating a republican form of government in the United States ease fears that the national government would become too powerful?
+- [ ] The republican government permitted little authority for the states.
+- [ ] The republican government gave most of the power to the national government.
+- [x] The republican government rested political power in the hands of the people.
+- [ ] The republican government allowed for one political party to control the laws and policies.
+
+4. Why was it so difficult to change the Articles of Confederation?
+- [ ] The Articles of Confederation specifically stated that they were not to be changed.
+- [ ] The Articles of Confederation were only an experiment, so changing them would ruin the results.
+- [ ] The Articles of Confederation required two-thirds of the states to approve changes.
+- [x] The Articles of Confederation required unanimous consent by all the states for any changes.
+
+5. Which power belonged to the national government under the Articles of Confederation?
+- [ ] The power to tax
+- [ ] The power to declare laws passed by other states as invalid
+- [ ] The power to enforce laws
+- [x] The power to declare war
 
 ## <a id="p-f">Personal Follow Up</a>
+
 ### Did I complete the learning objectives for this section?
 
 ### Do I have any further questions or thoughts?
 
 The material alludes to the fact that a single person would need to be an enforcer of the new law which is funny because it's like everyone expected a king or president like the Constitution provides later. The material has the benefit of hindsight but I don't believe everyone thought there should be one executive at this time. Im curious if there was a debate around that or if the material will cover anything regarding how the decision for the executive branch was made.
+
+The actual gall of the 2nd question stating that the states had too much authority for being sovereign states is absolutely inane. The pompous of this author, smh. This author has a very clear bias towards big government and the government's ability to limit the rights of states and their people. It was almost clear last section but the manner in which the author speaks about limiting the authority of a centralized government, as if it is bad, is all too apparent. I'm so annoyed by this material. I almost want to stop taking notes because I'm getting side tracked into ticked off rants. 
