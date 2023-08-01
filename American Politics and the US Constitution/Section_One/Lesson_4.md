@@ -183,6 +183,9 @@ Key points according to the material:
 ## <a id="p-f">Personal Follow Up</a>
 
 ### Did I complete the learning objectives for this section?
+Describe the structure and powers of the national government under the Articles of Confederation.
+
+The national government is very weak and does not have executive powers to actually carry out many of its actual enumerated powers. This means that the states hold the majority of the power instead of a centralized government. 
 
 ### Do I have any further questions or thoughts?
 
