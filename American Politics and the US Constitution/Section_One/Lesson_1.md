@@ -33,6 +33,6 @@
 1. Describe the influence of Enlightenment ideas on the founding doucuments (of the United States). 
     -  The notion of natural rights from John Locke and what those rights are can be found in the Declaration of independence. Montesquieu's ideas of separation of powers can be found in the constitution. Adam Smith's ideas on a free pursuit of wealth show a preliminary leaning towards the free market economy of the United States.
 
-### Do I have any further questions?
+### Do I have any further questions or thoughts?
 1. How did the early United States become a free market economy?
 2. Are there any documents from the founding fathers about how the economy should work or is this outlined in the Constitution and I'm just dumb?

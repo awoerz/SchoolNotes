@@ -8,7 +8,7 @@
 [3.4 Quiz and Summary](#q-s)<br>
 [Personal Follow Up](#p-f)<br>
 
-## <a id="intro">2 Introduction</a>
+## <a id="intro">3 Introduction</a>
 
 ### What I Learned
 Material states that "one could argue" that the ideas in Declaration of Independence line up with John Locke, but the ideas shift in favor of Montesquieu for both the Constitution and Bill of Rights, with some of Locke's ideas "infiltrating" (material's words) the Bill of Rights. <- This kind of language makes me continue to think there's going to be a bait in switch in terms of John Locke. The material paints the two as disagreeing with one another and changes the discussion to Anit-Fedarilist vs. Federalists. 
@@ -179,5 +179,5 @@ What is this consistent with?
 ### Did I complete the learning objectives for this section?
 
 
-### Do I have any further questions?
+### Do I have any further questions or thoughts?
 Yeah, can I speak to the absolute butthole who wrote this section? I mean they are trying to convince me by the end of it that liberty is a "procedural right" that the government can take away and it may be subtle but's completely true of what they did. I'm super peeved right now.

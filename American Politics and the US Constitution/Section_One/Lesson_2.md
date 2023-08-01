@@ -205,6 +205,6 @@ It does end by stating that social contract is ongoing in our political process 
 1. Describe the development and influence of the social contract theory.
 - Social contract theory believes that societys are not natural but created. Instead, natural rights and the state of nature are natural and provide the basis by which to create a social contract. A socical contract then allows for society to cooperate and create government that updates and enforces the social contract by way of democratic prosses and consensus. 
 
-### Do I have any further questions?
+### Do I have any further questions or thoughts?
 1. Where can I get proof that society is created by people and not God as the reading material purports? This sounds like a philisophical qustion that requires more thought expiriments and explanation.
 2. What is the material setting me up to believe with the notion that society must always be "in-flux" with it's values? It feels like at some point they are going to leverage this point (again, not a proven point) to make me feel like the Constitution is always up for debate and should be changed. I understand ammendments are a thing, but it is important to note that one side of the aisle very much believes the constitution to be a "living breathing document". They believe they can change it on a whim and that society dictates at all times what rights are actually natural rights and which are rights that are "allowed" by government. Very, very, very interested to find out if my hunch is true. 
