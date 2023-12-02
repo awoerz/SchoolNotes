@@ -3,7 +3,7 @@
 ## Lesson 2 Intro
 
 Keep in mind: 
-Evaluate graphs and data tables to identify relationships between variables.
+- Evaluate graphs and data tables to identify relationships between variables.
 
 ## Lesson 2.1 Correlations Between Variables
 

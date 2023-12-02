@@ -3,7 +3,7 @@
 ## Lesson 1 Intro
 
 Keep in mind: 
-Describing the mehtods of scientific inquiry.
+- Describing the mehtods of scientific inquiry.
 
 ## Lesson 1.1 Scientific Investigations
 
