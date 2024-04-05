@@ -24,7 +24,7 @@ A:
 - [x] The moon is made entirely of cheese.
 - [ ] Invisible, undetectable space aliens have been visiting Earth for centuries.
 - [ ] No alien spaceships have ever landed in the United States.
-unanswered
+ 
 
 After each characteristic of a scientific law, choose the statement about discovery of the law of conservation of matter that best illustrates the characteristic. After submitting, select "Show Answer" for the correct respons
 
@@ -204,7 +204,101 @@ A:
 - Newton's second law: the acceleration of an object depends on the mass of the object and the amount of force applied
 - Net Force = Mass * Acceleration
 
-## Lesson 4.4 Newton's Third Law of Mtion
+## Lesson 4.4 Newton's Third Law of Motion
 
 YouTube Video: https://www.youtube.com/watch?v=JGO_zDWmkvk 
 
+### Learn By Doing
+
+Q: Consider a spacecraft in deep space, far from any planet, star, or other object. Explain in terms of Newton’s third law how the spacecraft can manage to accelerate by using its rocket engine to expel gases. Then explain why, no matter how good of an energy source the spacecraft has on board, it cannot accelerate except by expelling matter or by interacting with the gravitation of a distant object.
+
+My Answer: 
+Simply put, an object at rest will remain rest and an object in motion will remain in motion. That means that if a spacecraft is alone in space, it will still need a Net Force enacted upon it in order to propel it in any direction.
+
+Book Answer: 
+The rocket pushes on the gas to accelerate it because the gas has mass. This in turn means the gas is pushing back on the rocket, accelerating it forward. But to accelerate the spacecraft, something must exert a force on it, and whatever that something is, it must be experiencing a force from the rocket in return. Therefore, the spacecraft must exert force on some object, either something attracting it through gravity or something it expels, such as the gas from the rocket.
+
+### Did I Get This?
+
+Scenario: A diver jumps down on a springboard. The diving board pushes the diver back up into the air, and she falls downward into the water. Compare the magnitude of the force of the diver on the board with the force of the board on the diver at each step.
+
+The answer to the questions following the diving board scneario are all the same. The force of the two objects acting on one another are equal magnitudes of force. It's a trick question.
+
+Q: When the diver is moving downward and is bending the board downward, what is the force of the diver on the board compared to the force of the board on the diver?
+
+A.
+- [ ] It is smaller.
+- [ ] It is greater.
+- [x] It is equal.
+ 
+Q: When the diver has bent the board downward as far it bends, what is the force of the diver on the board compared to the force of the board on the diver?
+
+A.
+- [ ] It is smaller.
+- [ ] It is greater.
+- [x] It is equal.
+ 
+Q: When the diver is moving upward because of the force from the board, what is the force of the diver on the board compared to the force of the board on the diver?
+
+A.
+- [ ] It is smaller.
+- [x] It is equal.
+- [ ] It is greater.
+ 
+Q: When the diver is being accelerated upward by the board unbending, what is the force of the diver on the board compared to the force of the board on the diver?
+
+A.
+- [ ] It is smaller.
+- [ ] It is greater.
+- [x] It is equal.
+ 
+Q: When the diver is no longer in contact with the board, what is the force of the diver on the board compared to the force of the board on the diver?
+
+A.
+- [ ] It is greater.
+- [x] It is equal.
+- [ ] It is smaller.
+
+Q: Which force shown in the diagram needs to be included when determining the net force on the cart? The forces are shown with arrows in the diagram. Man pushes cart of groceries. Arrows show that while the man exerts force on the cart, the cart also exerts force on the man.
+
+![Alt text](diagrams/cart.png)
+
+A.
+- [ ] Ffoot
+- [ ] Fcart
+- [x] Fperson
+- [ ] Ffloor
+ 
+This one doesn't make sense to me.
+
+Q: A basketball player makes a jump shot. What directly exerted an external force on the player to accelerate him upward into the air?
+
+A.
+- [x] The floor
+- [ ] His knees
+- [ ] The basket
+- [ ] His feet
+
+The player pushes down on the floor, and as that occurs, the floor pushes back up on him, producing the force that directly pushes him into the air.
+
+Q: A bumper car at an amusement park bumps into the back of another. The car in front moves faster as a result of the collision, and the car behind it is slowed by the collision. The cars have unequal mass. Which car experiences the greater force during the collision?
+
+A. 
+- [ ] The more massive car experiences the stronger force.
+- [ ] The less massive car experiences the stronger force.
+- [ ] The car in front experiences the stronger force.
+- [x] Each car experiences a force of the same magnitude.
+
+Newton’s third law states that the two forces are equal in magnitude even though they may cause different changes in motion for the two objects because of their different masses or other details.
+
+Q: When a soccer ball falls, it is accelerated toward Earth while Earth does not move noticeably in response. What is the likely explanation?
+
+A.
+- [ ] Gravity causes planets to attract objects, not the reverse.
+- [ ] Earth pulls more strongly on the soccer ball than the soccer ball pulls on Earth.
+- [x] The soccer ball accelerates more because its mass is small compared to Earth’s mass.
+- [ ] Both previous statements are true.
+
+The soccer ball and Earth each exert an equal force on the other, but the soccer ball responds much more to the force than the Earth does because its mass is much smaller, as described by Newton’s second law, and because the acceleration in response to a force is proportional to the inverse of the object’s mass.
+
+*note, this question is deceptive, because it is asking about why the ACCELERATION is higher on the soccer ball and it has nothing to do with magnitude of force. Newton's second F = M * A means that Accelaration has a inverse relationship with mass because Acceleration = Force / Mass. In other words, because the magnitude of force is the same for both, BUT the mass of earth is so much bigger than the ball, it might as well be infinitely small. This causes the ball to accelerate and the earth to seemingly be still. For reference, the volume of a soccer ball is 1 cubic meter. The volue of earth is 1,097,509,500,000,000,000,000 cubic meters. So the Acceleration is would literally 1 over that big huge number. That's infinitely small. That's 22 digits to the right of a decimal point. 
