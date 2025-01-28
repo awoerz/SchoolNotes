@@ -110,7 +110,7 @@ Nested quantifiers allow us to express statements like:
 
 This requires both a **universal quantifier** and an **existential quantifier**:
 
-- \( \forall x \, (W(x) \rightarrow \exists y \, (S(y) \land Owns(x, y))) \)
+- ∀x(W(x)→∃y(S(y)∧Owns(x,y)))
 
 Here, the universal quantifier \( \forall x \) applies to all wizards \( x \), and for each wizard \( x \), there exists some magical staff \( y \) that the wizard owns.
 
@@ -120,12 +120,53 @@ Here, the universal quantifier \( \forall x \) applies to all wizards \( x \), a
 
 1. **Express the following statement using nested quantifiers**:  
    "For every wizard in the kingdom, there exists a dragon that trusts them."
+    
+    ∀x(W(x)→∃y(D(y)∧Trusts(x,y)))
 
 2. **Express this statement using nested quantifiers**:  
    "There exists a knight in the kingdom who has fought against every dragon."
+   
+    My Answer: ∃x(K(x)→∀y(D(y)Fought(x,y)))
+    
+    Correct Answer: ∃x(K(x)∧∀y(D(y)→Fought(x,y)))
 
 ---
 
 This is getting deeper into the **logic of relationships**! Try your hand at these nested quantifier challenges, and let me know how it goes. 😄
+# The Logical Kingdom – Part 5: The Mirror of Equivalence
 
+You find yourself standing before a giant Mirror of Equivalence, an ancient artifact that reflects the underlying truth of logical statements. The mirror shows you that some complex statements, though they may look different, are logically equivalent!
+
+The Sage of Quantifiers reappears. "You must now learn the art of logical equivalence. Two logical statements are equivalent if they always have the same truth value, regardless of the truth values of their components. Some powerful laws help you recognize these equivalences."
+
+The Sage then holds up a scroll and reads aloud:
+
+#### De Morgan’s Laws:
+De Morgan’s Laws describe how negation interacts with conjunctions and disjunctions.
+
+Negation of a Conjunction:
+
+¬(P∧Q)≡(¬P∨¬Q)
+
+"The negation of a conjunction is equivalent to the disjunction of the negations."
+
+Negation of a Disjunction:
+
+¬(P∨Q)≡(¬P∧¬Q)
+
+"The negation of a disjunction is equivalent to the conjunction of the negations."
+
+#### Challenge: Logical Equivalences
+
+Simplify the following expression using De Morgan's Laws:
+
+¬(P∧(Q∨R))
+
+(¬P∨(¬Q∧¬R))
+
+Simplify the following expression using De Morgan’s Laws:
+
+¬(P∨(Q∧R))
+
+(¬P∧(¬Q∨¬R))
 
